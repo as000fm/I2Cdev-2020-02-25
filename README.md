@@ -9,7 +9,7 @@ How to use in a **XOD patch**:
 #pragma XOD require "https://github.com/as000fm/I2Cdev-2020-02-25"
 
 {{#global}}
-#include <I2Cdev.h.h>
+#include <I2Cdev.h>
 {{/global}}
 
 struct State {
